@@ -1,0 +1,44 @@
+domain,variable,loading
+metabolic,Glucose,0.6570141475924409
+metabolic,GPR,0.641558303504849
+metabolic,Diabetes,0.3958981599696548
+inflammatory,WBC,0.2724141757462976
+inflammatory,NEU,0.3310156120316914
+inflammatory,LYM,-0.2383971098925755
+inflammatory,MONO,0.21518759301487175
+inflammatory,EOS,-0.16791120307843962
+inflammatory,BASO,-0.03284550226404285
+inflammatory,CRP,0.17406761578888005
+inflammatory,NLR,0.378935213356395
+inflammatory,SII,0.3765347328510527
+inflammatory,SIRI,0.3912254261040125
+inflammatory,PLR,0.2916116043225671
+inflammatory,MLR,0.3606144790159055
+red cell/platelet,RBC,0.44331420434188545
+red cell/platelet,HGB,0.5150409446457693
+red cell/platelet,HCT,0.480211307659795
+red cell/platelet,MCV,0.0994626370171594
+red cell/platelet,MCH,0.21181493291253584
+red cell/platelet,MCHC,0.21766560635754995
+red cell/platelet,RDW,-0.37273319898963897
+red cell/platelet,PLT,0.09711049071124174
+red cell/platelet,MPV,-0.23896706544921023
+coagulation,INR,0.7071067811865477
+coagulation,APTT,0.7071067811865474
+renal/electrolyte,Creatinine,0.6292083667224005
+renal/electrolyte,Urea,0.5835012776538822
+renal/electrolyte,Sodium,0.33646132570156223
+renal/electrolyte,Potassium,0.38783613360537067
+lipid,TotalChol,0.6372741421204684
+lipid,HDL,-0.08080058749712926
+lipid,LDL,0.6565803699353795
+lipid,Triglycerides,0.39529122259450644
+procedural,onset_to_puncture_h,0.13568649899049504
+procedural,puncture_to_recan_h,0.49427911853644624
+procedural,FirstPass,-0.4599843865764505
+procedural,mTICI3,-0.3369081893985061
+procedural,Aspiration,-0.16665083660471539
+procedural,StentRetriever,0.49595554650797374
+procedural,ICAstent,0.07958587344288452
+procedural,IVtPA,0.25291051754752536
+procedural,Tandem,0.2610412159061142

@@ -1,0 +1,6 @@
+,0
+penalised logistic,0.7576530612244897
+elastic net,0.7846938775510205
+random forest,0.7221938775510204
+gradient boosting,0.7392857142857143
+support vector machine,0.6637755102040818

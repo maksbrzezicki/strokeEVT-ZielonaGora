@@ -1,0 +1,19 @@
+Measure,Early improvement (n=20),fENI (n=9),n_ENI,n_fENI,SMD,p,test,q_FDR,variable
+"Stroke to rehabilitation admission, days",10 (10 to 14),11 (9 to 15),20,9,0.111935122116216,0.7936784835078232,Mann-Whitney U,0.8928882939463011,days_to_rehab
+"Barthel Index (0 to 20), entry",9 (3 to 11),1 (0 to 3),17,9,-1.019878348440502,0.054879998904004225,Mann-Whitney U,0.16463999671201268,barthel_in
+"Berg Balance Scale (0 to 56), entry",41 (17 to 47),16 (4 to 28),18,8,-0.7993537469044423,0.10643502166246531,Mann-Whitney U,0.21287004332493062,berg_in
+"Trunk Control Test (0 to 100), entry",100 (81 to 100),87 (36 to 100),18,9,-0.6265129217513075,0.12254568572638518,Mann-Whitney U,0.22058223430749332,tct_in
+"Modified Sitting Assessment Scale (4 to 16), entry",15.5 (11 to 16),9 (6 to 13),18,9,-1.12873280459665,0.008065876263699433,Mann-Whitney U,0.09721019468200334,sas_in
+"Able to walk 10 m, entry",11/18 (61%),2/9 (22%),18,9,,0.10318840579710145,Fisher exact,0.21287004332493062,walks_in
+"MMSE (0 to 30), entry",15 (4 to 22),18 (0 to 22),17,9,0.004229976363290463,1.0,Mann-Whitney U,1.0,mmse_in
+"Aphasia, entry",11/20 (55%),4/9 (44%),20,9,,0.6998500749625187,Fisher exact,0.8398200899550224,aphasia_in
+"Rehabilitation stay, days",42 (26 to 74),79 (58 to 111),20,9,0.8992521306067968,0.035813107730628214,Mann-Whitney U,0.12892718783026158,rehab_los
+"Barthel Index, discharge",17 (15 to 20),16 (5 to 20),17,9,-0.5812487409143826,0.6193602461132275,Mann-Whitney U,0.8398200899550224,barthel_out
+"Berg Balance Scale, discharge",52 (43 to 56),37 (11 to 53),18,9,-0.7465780921161459,0.08767439278067621,Mann-Whitney U,0.21287004332493062,berg_out
+"Trunk Control Test, discharge",100 (100 to 100),100 (61 to 100),18,9,-0.5352107481386507,0.17181662664163622,Mann-Whitney U,0.2811544799590411,tct_out
+"Modified Sitting Assessment Scale, discharge",16 (15 to 16),11 (11 to 15),18,9,-0.8908654761916857,0.010801132742444815,Mann-Whitney U,0.09721019468200334,sas_out
+"Able to walk 10 m, discharge",17/18 (94%),5/9 (56%),18,9,,0.029654403567447047,Fisher exact,0.12892718783026158,walks_out
+Barthel Index gain,7 (6 to 10),8 (5 to 15),17,9,0.06956053600850468,0.9351657130556272,Mann-Whitney U,0.9901754608824288,barthel_gain
+Berg Balance Scale gain,8 (1 to 19),14 (9 to 25),18,8,0.3296969369080566,0.30072578411624307,Mann-Whitney U,0.4510886761743646,berg_gain
+Barthel Index gain per week of stay,1.8 (1.1 to 2.1),0.5 (0.3 to 1.2),17,9,-1.0100525656727648,0.028911680803126196,Mann-Whitney U,0.12892718783026158,barthel_gain_per_week
+Berg Balance Scale gain per week of stay,1.8 (0.1 to 2.1),1.1 (0.6 to 1.8),18,8,-0.21527170609095198,0.6955722683131971,Mann-Whitney U,0.8398200899550224,berg_gain_per_week

@@ -1,0 +1,37 @@
+x,x_label,y,y_label,n,rho,p
+nihss_reduction,"NIHSS reduction, admission to discharge",barthel_in,Barthel entry,26,0.4627950040187818,0.017278915124133126
+nihss_reduction,"NIHSS reduction, admission to discharge",berg_in,Berg entry,26,0.4424400976583848,0.023616391793903367
+nihss_reduction,"NIHSS reduction, admission to discharge",tct_in,TCT entry,27,0.4384737619040477,0.02214851213963838
+nihss_reduction,"NIHSS reduction, admission to discharge",sas_in,SAS entry,27,0.6392193633172455,0.0003315594185512122
+nihss_reduction,"NIHSS reduction, admission to discharge",barthel_out,Barthel discharge,26,0.2384640970330679,0.2407350814833376
+nihss_reduction,"NIHSS reduction, admission to discharge",berg_out,Berg discharge,27,0.40979993770327877,0.03376492433118774
+nihss_reduction,"NIHSS reduction, admission to discharge",barthel_gain,Barthel gain,26,0.0013802689059761212,0.9946607069435204
+nihss_reduction,"NIHSS reduction, admission to discharge",berg_gain,Berg gain,26,-0.2106368785933922,0.3016670681087524
+nihss_reduction,"NIHSS reduction, admission to discharge",rehab_los,Rehabilitation stay,29,-0.41135167013140306,0.026627038322194128
+Glucose,Admission glucose,barthel_in,Barthel entry,26,-0.468393921127218,0.015805138029014305
+Glucose,Admission glucose,berg_in,Berg entry,26,-0.2563403351954264,0.20621241856135356
+Glucose,Admission glucose,tct_in,TCT entry,27,-0.1142360280535856,0.5704677755006804
+Glucose,Admission glucose,sas_in,SAS entry,27,-0.25179920604387296,0.20515206583241508
+Glucose,Admission glucose,barthel_out,Barthel discharge,26,-0.09037646349541371,0.6606125657397495
+Glucose,Admission glucose,berg_out,Berg discharge,27,-0.11828158498993205,0.5568038135229502
+Glucose,Admission glucose,barthel_gain,Barthel gain,26,0.1689925718468611,0.4092140414022187
+Glucose,Admission glucose,berg_gain,Berg gain,26,0.3459096075983784,0.08346084167429552
+Glucose,Admission glucose,rehab_los,Rehabilitation stay,29,0.2786339560074345,0.14328836102909823
+metabolic_score,Metabolic score,barthel_in,Barthel entry,26,-0.4704152693664735,0.015299164736811366
+metabolic_score,Metabolic score,berg_in,Berg entry,26,-0.33813021071619836,0.09112038442816775
+metabolic_score,Metabolic score,tct_in,TCT entry,27,-0.2587149557907114,0.19256522797233946
+metabolic_score,Metabolic score,sas_in,SAS entry,27,-0.33189363818351936,0.09078136040608259
+metabolic_score,Metabolic score,barthel_out,Barthel discharge,26,-0.26083693024165605,0.1980881531946779
+metabolic_score,Metabolic score,berg_out,Berg discharge,27,-0.2877818418869958,0.1455032358549304
+metabolic_score,Metabolic score,barthel_gain,Barthel gain,26,0.011696130651187544,0.9547782367306066
+metabolic_score,Metabolic score,berg_gain,Berg gain,26,0.287442268405997,0.15449147623275394
+metabolic_score,Metabolic score,rehab_los,Rehabilitation stay,29,0.27825020685210045,0.1438632080686528
+NIHSS_discharge,Discharge NIHSS,barthel_in,Barthel entry,26,-0.6630205833421738,0.00022310074668516726
+NIHSS_discharge,Discharge NIHSS,berg_in,Berg entry,26,-0.6744283828777901,0.00015786892225106846
+NIHSS_discharge,Discharge NIHSS,tct_in,TCT entry,27,-0.5285158941187633,0.004596670827268649
+NIHSS_discharge,Discharge NIHSS,sas_in,SAS entry,27,-0.7125637436076395,3.0456885389271784e-05
+NIHSS_discharge,Discharge NIHSS,barthel_out,Barthel discharge,26,-0.29169854589040567,0.14820819234816957
+NIHSS_discharge,Discharge NIHSS,berg_out,Berg discharge,27,-0.38498378336747463,0.04737177467240625
+NIHSS_discharge,Discharge NIHSS,barthel_gain,Barthel gain,26,-0.08941264591742076,0.6640225766615151
+NIHSS_discharge,Discharge NIHSS,berg_gain,Berg gain,26,0.296155249450893,0.14182705575360224
+NIHSS_discharge,Discharge NIHSS,rehab_los,Rehabilitation stay,29,0.4091452394753,0.027532480196943883

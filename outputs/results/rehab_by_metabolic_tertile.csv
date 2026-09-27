@@ -1,0 +1,19 @@
+Measure,Tertile 1 (n=12),Tertile 2 (n=12),Tertile 3 (n=5),p_trend,p_KW
+"Stroke to rehabilitation admission, days",10 (9 to 13),10.5 (9 to 15),11 (11 to 15),0.1754957986968954,0.44915819901517395
+"Barthel Index (0 to 20), entry",11 (4 to 12),4.5 (1 to 9),0 (0 to 3),0.015299164736811366,0.1341134640956438
+"Berg Balance Scale (0 to 56), entry",40 (11 to 47),33 (16 to 43),16 (0 to 35),0.09112038442816775,0.3879147434152261
+"Trunk Control Test (0 to 100), entry",100 (61 to 100),100 (94 to 100),36 (0 to 100),0.19256522797233946,0.19509918001707174
+"Modified Sitting Assessment Scale (4 to 16), entry",13 (11 to 16),14 (10 to 16),8 (4 to 13),0.09078136040608253,0.2916113090278047
+"Able to walk 10 m, entry",7/11 (64%),4/11 (36%),2/5 (40%),0.17909744784268877,
+"MMSE (0 to 30), entry",6 (4 to 22),18.5 (17 to 22),0 (0 to 11),0.9813618392783556,0.2311617228175923
+"Aphasia, entry",8/12 (67%),3/12 (25%),4/5 (80%),0.39248072071865003,
+"Rehabilitation stay, days",42 (29 to 67),77 (45 to 95),32 (22 to 99),0.14386320806865274,0.5002707453485917
+"Barthel Index, discharge",19 (17 to 20),17.5 (15 to 20),5 (0 to 17),0.1980881531946779,0.2597582044423274
+"Berg Balance Scale, discharge",54 (39 to 56),50 (44 to 54),11 (2 to 51),0.14550323585493058,0.34203587666098323
+"Trunk Control Test, discharge",100 (100 to 100),100 (100 to 100),61 (24 to 100),0.3193748229097577,0.01834533285113075
+"Modified Sitting Assessment Scale, discharge",16 (14 to 16),15 (15 to 16),11 (6 to 16),0.1875292978408303,0.48504417019144597
+"Able to walk 10 m, discharge",10/11 (91%),10/11 (91%),2/5 (40%),0.10567545820948752,
+Barthel Index gain,7 (5 to 10),10 (7 to 15),5 (0 to 6),0.9547782367306066,0.09238678092254207
+Berg Balance Scale gain,8 (0 to 12),17 (6 to 28),8.5 (5 to 14),0.154491476232754,0.46612402638556694
+Barthel Index gain per week of stay,1.9 (0.7 to 2.0),1.3 (1.0 to 1.9),0.3 (0.0 to 1.2),0.09688720486801988,0.25091076656217953
+Berg Balance Scale gain per week of stay,1.9 (0.0 to 2.5),1.6 (1.1 to 2.1),1.2 (0.5 to 1.8),0.8386952426890588,0.8371178945513897

@@ -1,0 +1,14 @@
+Measure,Not admitted (n=40),Admitted to rehabilitation (n=29),n_not_admitted,n_admitted,SMD,p,test
+"Admission glucose, mg/dl",118 (104 to 141),112 (104 to 132),40,29,-0.12388752775169465,0.5553713871902599,Mann-Whitney U
+Admission NIHSS,17 (14 to 19),16 (10 to 18),40,29,-0.2433463401087483,0.3265469620231768,Mann-Whitney U
+Discharge NIHSS,3 (2 to 14),6 (4 to 9),40,29,0.047041208079162435,0.17203282006973875,Mann-Whitney U
+"NIHSS reduction, admission to discharge",7 (3 to 13),7 (2 to 11),40,29,-0.24214649360723728,0.4836045098844636,Mann-Whitney U
+"Age, years",72.5 (66 to 78),70 (61 to 75),40,29,-0.2644498021395325,0.3395330150675939,Mann-Whitney U
+"Onset to recanalisation, h",3.6 (3.0 to 4.5),4.2 (3.5 to 5.6),40,26,0.4413134721374445,0.07012803693264462,Mann-Whitney U
+90-day mRS,1 (1 to 5),3 (2 to 4),39,26,0.19172239477432382,0.28298697183176547,Mann-Whitney U
+Failure of early neurological improvement,11/40 (28%),9/29 (31%),40,29,,0.7926212958964398,Fisher exact
+Female sex,14/40 (35%),14/29 (48%),40,29,,0.3245558256616191,Fisher exact
+Diabetes mellitus,9/40 (23%),7/29 (24%),40,29,,1.0,Fisher exact
+Complete reperfusion (mTICI 3),30/40 (75%),16/29 (55%),40,29,,0.12093690824048363,Fisher exact
+Any intracranial haemorrhage,4/40 (10%),5/29 (17%),40,29,,0.4767477882783672,Fisher exact
+Poor 90-day outcome (mRS 3 to 6),17/39 (44%),15/26 (58%),39,26,,0.31669766771690466,Fisher exact
