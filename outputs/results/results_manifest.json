@@ -1339,6 +1339,26 @@
   "value": 38.0,
   "decimals": 0
  },
+ "pa_feni_prespecified_set_OR_cs": {
+  "value": 1.9031137671174583,
+  "decimals": 2
+ },
+ "pa_feni_prespecified_set_CI_low_cs": {
+  "value": 1.3813172531622695,
+  "decimals": 2
+ },
+ "pa_feni_prespecified_set_CI_high_cs": {
+  "value": 3.1109512348742934,
+  "decimals": 2
+ },
+ "pa_feni_prespecified_set_p_cs": {
+  "value": 6.7272160290748e-07,
+  "decimals": 3
+ },
+ "pa_feni_prespecified_set_EPV_cs": {
+  "value": 5.0,
+  "decimals": 1
+ },
  "pa_feni_+_sex_OR": {
   "value": 1.8431378318482596,
   "decimals": 2
@@ -1366,6 +1386,26 @@
  "pa_feni_+_sex_events": {
   "value": 38.0,
   "decimals": 0
+ },
+ "pa_feni_+_sex_OR_cs": {
+  "value": 2.042430896624389,
+  "decimals": 2
+ },
+ "pa_feni_+_sex_CI_low_cs": {
+  "value": 1.4184703877163383,
+  "decimals": 2
+ },
+ "pa_feni_+_sex_CI_high_cs": {
+  "value": 3.556207369116562,
+  "decimals": 2
+ },
+ "pa_feni_+_sex_p_cs": {
+  "value": 4.421854441183387e-07,
+  "decimals": 3
+ },
+ "pa_feni_+_sex_EPV_cs": {
+  "value": 4.285714285714286,
+  "decimals": 1
  },
  "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_OR": {
   "value": 1.8395838005082639,
@@ -1395,6 +1435,26 @@
   "value": 38.0,
   "decimals": 0
  },
+ "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_OR_cs": {
+  "value": 1.8875853809589658,
+  "decimals": 2
+ },
+ "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_CI_low_cs": {
+  "value": 1.329248029138306,
+  "decimals": 2
+ },
+ "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_CI_high_cs": {
+  "value": 3.2092955395316936,
+  "decimals": 2
+ },
+ "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_p_cs": {
+  "value": 1.667784937427575e-05,
+  "decimals": 3
+ },
+ "pa_feni_+_comorbidity_(HTN,_AF,_diabetes)_EPV_cs": {
+  "value": 3.3333333333333335,
+  "decimals": 1
+ },
  "pa_feni_+_ICA_involvement,_tandem_OR": {
   "value": 1.782650332144935,
   "decimals": 2
@@ -1422,6 +1482,26 @@
  "pa_feni_+_ICA_involvement,_tandem_events": {
   "value": 38.0,
   "decimals": 0
+ },
+ "pa_feni_+_ICA_involvement,_tandem_OR_cs": {
+  "value": 1.8735224473756187,
+  "decimals": 2
+ },
+ "pa_feni_+_ICA_involvement,_tandem_CI_low_cs": {
+  "value": 1.3840343078917061,
+  "decimals": 2
+ },
+ "pa_feni_+_ICA_involvement,_tandem_CI_high_cs": {
+  "value": 2.9295776816856236,
+  "decimals": 2
+ },
+ "pa_feni_+_ICA_involvement,_tandem_p_cs": {
+  "value": 5.923867057558489e-07,
+  "decimals": 3
+ },
+ "pa_feni_+_ICA_involvement,_tandem_EPV_cs": {
+  "value": 3.75,
+  "decimals": 1
  },
  "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_OR": {
   "value": 1.7543380952348224,
@@ -1451,6 +1531,26 @@
   "value": 38.0,
   "decimals": 0
  },
+ "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_OR_cs": {
+  "value": 1.8555503808508047,
+  "decimals": 2
+ },
+ "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_CI_low_cs": {
+  "value": 1.3559207961903526,
+  "decimals": 2
+ },
+ "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_CI_high_cs": {
+  "value": 3.0387104826343676,
+  "decimals": 2
+ },
+ "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_p_cs": {
+  "value": 1.5773411645176353e-06,
+  "decimals": 3
+ },
+ "pa_feni_+_procedure_(first_pass,_IV_thrombolysis)_EPV_cs": {
+  "value": 3.75,
+  "decimals": 1
+ },
  "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_OR": {
   "value": 1.734477417243843,
   "decimals": 2
@@ -1478,6 +1578,26 @@
  "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_events": {
   "value": 38.0,
   "decimals": 0
+ },
+ "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_OR_cs": {
+  "value": 1.837785893583552,
+  "decimals": 2
+ },
+ "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_CI_low_cs": {
+  "value": 1.3516617201773613,
+  "decimals": 2
+ },
+ "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_CI_high_cs": {
+  "value": 2.9476189970063102,
+  "decimals": 2
+ },
+ "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_p_cs": {
+  "value": 2.0130248570329715e-06,
+  "decimals": 3
+ },
+ "pa_feni_+_renal_/_electrolyte_(Na,_urea,_creatinine)_EPV_cs": {
+  "value": 3.3333333333333335,
+  "decimals": 1
  },
  "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_OR": {
   "value": 1.8457777278588885,
@@ -1507,6 +1627,26 @@
   "value": 34.0,
   "decimals": 0
  },
+ "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_OR_cs": {
+  "value": 1.9749896374337947,
+  "decimals": 2
+ },
+ "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_CI_low_cs": {
+  "value": 1.3910375493878513,
+  "decimals": 2
+ },
+ "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_CI_high_cs": {
+  "value": 3.3494824052041827,
+  "decimals": 2
+ },
+ "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_p_cs": {
+  "value": 1.0449466547674222e-06,
+  "decimals": 3
+ },
+ "pa_feni_+_lipids_(LDL,_HDL,_triglycerides)_EPV_cs": {
+  "value": 3.3333333333333335,
+  "decimals": 1
+ },
  "pa_feni_+_haemoglobin,_INR_OR": {
   "value": 1.8756370693016864,
   "decimals": 2
@@ -1534,6 +1674,26 @@
  "pa_feni_+_haemoglobin,_INR_events": {
   "value": 37.0,
   "decimals": 0
+ },
+ "pa_feni_+_haemoglobin,_INR_OR_cs": {
+  "value": 2.0514364481152634,
+  "decimals": 2
+ },
+ "pa_feni_+_haemoglobin,_INR_CI_low_cs": {
+  "value": 1.4311086814805662,
+  "decimals": 2
+ },
+ "pa_feni_+_haemoglobin,_INR_CI_high_cs": {
+  "value": 3.486810858145197,
+  "decimals": 2
+ },
+ "pa_feni_+_haemoglobin,_INR_p_cs": {
+  "value": 9.363643424275314e-07,
+  "decimals": 3
+ },
+ "pa_feni_+_haemoglobin,_INR_EPV_cs": {
+  "value": 3.75,
+  "decimals": 1
  },
  "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_OR": {
   "value": 1.841837034383838,
@@ -1563,6 +1723,26 @@
   "value": 35.0,
   "decimals": 0
  },
+ "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_OR_cs": {
+  "value": 1.8305262572899146,
+  "decimals": 2
+ },
+ "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_CI_low_cs": {
+  "value": 1.3367214922798438,
+  "decimals": 2
+ },
+ "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_CI_high_cs": {
+  "value": 2.9404156016453364,
+  "decimals": 2
+ },
+ "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_p_cs": {
+  "value": 3.4526513979950157e-06,
+  "decimals": 3
+ },
+ "pa_feni_+_inflammatory_(NLR,_CRP,_WBC)_EPV_cs": {
+  "value": 3.3333333333333335,
+  "decimals": 1
+ },
  "pa_feni_+_all_blocks_jointly_OR": {
   "value": 2.3822186261220475,
   "decimals": 2
@@ -1591,6 +1771,42 @@
   "value": 30.0,
   "decimals": 0
  },
+ "pa_feni_+_all_blocks_jointly_OR_cs": {
+  "value": 2.3822186261220475,
+  "decimals": 2
+ },
+ "pa_feni_+_all_blocks_jointly_CI_low_cs": {
+  "value": 1.3654018351526278,
+  "decimals": 2
+ },
+ "pa_feni_+_all_blocks_jointly_CI_high_cs": {
+  "value": 6.506053737335746,
+  "decimals": 2
+ },
+ "pa_feni_+_all_blocks_jointly_p_cs": {
+  "value": 0.00022787831776429184,
+  "decimals": 3
+ },
+ "pa_feni_+_all_blocks_jointly_EPV_cs": {
+  "value": 1.2,
+  "decimals": 1
+ },
+ "pa_feni_cs_min": {
+  "value": 1.8305262572899146,
+  "decimals": 2
+ },
+ "pa_feni_cs_max": {
+  "value": 2.0514364481152634,
+  "decimals": 2
+ },
+ "pa_feni_cs_n": {
+  "value": 72.0,
+  "decimals": 0
+ },
+ "pa_feni_cs_events": {
+  "value": 30.0,
+  "decimals": 0
+ },
  "pa_m90_min": {
   "value": 1.3550708444314934,
   "decimals": 1
@@ -1604,7 +1820,7 @@
   "decimals": 1
  },
  "pa_m90_all_epv": {
-  "value": 1.68,
+  "value": 1.04,
   "decimals": 1
  },
  "pa_m90_n_min": {
@@ -1640,7 +1856,7 @@
   "decimals": 3
  },
  "pa_m90_prespecified_set_EPV": {
-  "value": 8.333333333333334,
+  "value": 5.166666666666667,
   "decimals": 1
  },
  "pa_m90_prespecified_set_n": {
@@ -1650,6 +1866,26 @@
  "pa_m90_prespecified_set_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_prespecified_set_OR_cs": {
+  "value": 1.4410098699292908,
+  "decimals": 2
+ },
+ "pa_m90_prespecified_set_CI_low_cs": {
+  "value": 1.0986213038970225,
+  "decimals": 2
+ },
+ "pa_m90_prespecified_set_CI_high_cs": {
+  "value": 2.192122106296774,
+  "decimals": 2
+ },
+ "pa_m90_prespecified_set_p_cs": {
+  "value": 0.004382930804845577,
+  "decimals": 3
+ },
+ "pa_m90_prespecified_set_EPV_cs": {
+  "value": 4.333333333333333,
+  "decimals": 1
  },
  "pa_m90_+_sex_OR": {
   "value": 1.4505479262691297,
@@ -1668,7 +1904,7 @@
   "decimals": 3
  },
  "pa_m90_+_sex_EPV": {
-  "value": 7.142857142857143,
+  "value": 4.428571428571429,
   "decimals": 1
  },
  "pa_m90_+_sex_n": {
@@ -1678,6 +1914,26 @@
  "pa_m90_+_sex_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_+_sex_OR_cs": {
+  "value": 1.4388140160909852,
+  "decimals": 2
+ },
+ "pa_m90_+_sex_CI_low_cs": {
+  "value": 1.0956254543807373,
+  "decimals": 2
+ },
+ "pa_m90_+_sex_CI_high_cs": {
+  "value": 2.190577707646619,
+  "decimals": 2
+ },
+ "pa_m90_+_sex_p_cs": {
+  "value": 0.004742169496518312,
+  "decimals": 3
+ },
+ "pa_m90_+_sex_EPV_cs": {
+  "value": 3.7142857142857144,
+  "decimals": 1
  },
  "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_OR": {
   "value": 1.3550708444314934,
@@ -1696,7 +1952,7 @@
   "decimals": 3
  },
  "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_EPV": {
-  "value": 5.555555555555555,
+  "value": 3.4444444444444446,
   "decimals": 1
  },
  "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_n": {
@@ -1706,6 +1962,26 @@
  "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_OR_cs": {
+  "value": 1.341182933424894,
+  "decimals": 2
+ },
+ "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_CI_low_cs": {
+  "value": 0.9814616296485381,
+  "decimals": 2
+ },
+ "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_CI_high_cs": {
+  "value": 2.0436933583081385,
+  "decimals": 2
+ },
+ "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_p_cs": {
+  "value": 0.06928952837326216,
+  "decimals": 3
+ },
+ "pa_m90_+_comorbidity_(HTN,_AF,_diabetes)_EPV_cs": {
+  "value": 2.888888888888889,
+  "decimals": 1
  },
  "pa_m90_+_ICA_involvement,_tandem_OR": {
   "value": 1.427200821380625,
@@ -1724,7 +2000,7 @@
   "decimals": 3
  },
  "pa_m90_+_ICA_involvement,_tandem_EPV": {
-  "value": 6.25,
+  "value": 3.875,
   "decimals": 1
  },
  "pa_m90_+_ICA_involvement,_tandem_n": {
@@ -1734,6 +2010,26 @@
  "pa_m90_+_ICA_involvement,_tandem_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_+_ICA_involvement,_tandem_OR_cs": {
+  "value": 1.4137672840726176,
+  "decimals": 2
+ },
+ "pa_m90_+_ICA_involvement,_tandem_CI_low_cs": {
+  "value": 1.0956375421300446,
+  "decimals": 2
+ },
+ "pa_m90_+_ICA_involvement,_tandem_CI_high_cs": {
+  "value": 2.0917429876221068,
+  "decimals": 2
+ },
+ "pa_m90_+_ICA_involvement,_tandem_p_cs": {
+  "value": 0.004422876580718753,
+  "decimals": 3
+ },
+ "pa_m90_+_ICA_involvement,_tandem_EPV_cs": {
+  "value": 3.25,
+  "decimals": 1
  },
  "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_OR": {
   "value": 1.4578551716017891,
@@ -1752,7 +2048,7 @@
   "decimals": 3
  },
  "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_EPV": {
-  "value": 6.25,
+  "value": 3.875,
   "decimals": 1
  },
  "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_n": {
@@ -1762,6 +2058,26 @@
  "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_OR_cs": {
+  "value": 1.426442352410841,
+  "decimals": 2
+ },
+ "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_CI_low_cs": {
+  "value": 1.0904480596379456,
+  "decimals": 2
+ },
+ "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_CI_high_cs": {
+  "value": 2.162151916029233,
+  "decimals": 2
+ },
+ "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_p_cs": {
+  "value": 0.005330323529507988,
+  "decimals": 3
+ },
+ "pa_m90_+_procedure_(first_pass,_IV_thrombolysis)_EPV_cs": {
+  "value": 3.25,
+  "decimals": 1
  },
  "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_OR": {
   "value": 1.4946362255882613,
@@ -1780,7 +2096,7 @@
   "decimals": 3
  },
  "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_EPV": {
-  "value": 5.555555555555555,
+  "value": 3.4444444444444446,
   "decimals": 1
  },
  "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_n": {
@@ -1790,6 +2106,26 @@
  "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_events": {
   "value": 50.0,
   "decimals": 0
+ },
+ "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_OR_cs": {
+  "value": 1.4861267882568545,
+  "decimals": 2
+ },
+ "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_CI_low_cs": {
+  "value": 1.1123733513549414,
+  "decimals": 2
+ },
+ "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_CI_high_cs": {
+  "value": 2.329939557955054,
+  "decimals": 2
+ },
+ "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_p_cs": {
+  "value": 0.003801428986387316,
+  "decimals": 3
+ },
+ "pa_m90_+_renal_/_electrolyte_(Na,_urea,_creatinine)_EPV_cs": {
+  "value": 2.888888888888889,
+  "decimals": 1
  },
  "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_OR": {
   "value": 1.4375796807312673,
@@ -1808,7 +2144,7 @@
   "decimals": 3
  },
  "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_EPV": {
-  "value": 5.222222222222222,
+  "value": 3.111111111111111,
   "decimals": 1
  },
  "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_n": {
@@ -1818,6 +2154,26 @@
  "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_events": {
   "value": 47.0,
   "decimals": 0
+ },
+ "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_OR_cs": {
+  "value": 1.434759705017412,
+  "decimals": 2
+ },
+ "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_CI_low_cs": {
+  "value": 1.0831835385187936,
+  "decimals": 2
+ },
+ "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_CI_high_cs": {
+  "value": 2.1767968002183857,
+  "decimals": 2
+ },
+ "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_p_cs": {
+  "value": 0.006780484792771057,
+  "decimals": 3
+ },
+ "pa_m90_+_lipids_(LDL,_HDL,_triglycerides)_EPV_cs": {
+  "value": 2.888888888888889,
+  "decimals": 1
  },
  "pa_m90_+_haemoglobin,_INR_OR": {
   "value": 1.561175358340428,
@@ -1836,7 +2192,7 @@
   "decimals": 3
  },
  "pa_m90_+_haemoglobin,_INR_EPV": {
-  "value": 6.125,
+  "value": 3.875,
   "decimals": 1
  },
  "pa_m90_+_haemoglobin,_INR_n": {
@@ -1846,6 +2202,26 @@
  "pa_m90_+_haemoglobin,_INR_events": {
   "value": 49.0,
   "decimals": 0
+ },
+ "pa_m90_+_haemoglobin,_INR_OR_cs": {
+  "value": 1.632127929340103,
+  "decimals": 2
+ },
+ "pa_m90_+_haemoglobin,_INR_CI_low_cs": {
+  "value": 1.1345089185521566,
+  "decimals": 2
+ },
+ "pa_m90_+_haemoglobin,_INR_CI_high_cs": {
+  "value": 2.6827792892124043,
+  "decimals": 2
+ },
+ "pa_m90_+_haemoglobin,_INR_p_cs": {
+  "value": 0.0034353231932295466,
+  "decimals": 3
+ },
+ "pa_m90_+_haemoglobin,_INR_EPV_cs": {
+  "value": 3.25,
+  "decimals": 1
  },
  "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_OR": {
   "value": 1.4632644245879614,
@@ -1864,7 +2240,7 @@
   "decimals": 3
  },
  "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_EPV": {
-  "value": 5.111111111111111,
+  "value": 3.2222222222222223,
   "decimals": 1
  },
  "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_n": {
@@ -1874,6 +2250,26 @@
  "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_events": {
   "value": 46.0,
   "decimals": 0
+ },
+ "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_OR_cs": {
+  "value": 1.415456362320732,
+  "decimals": 2
+ },
+ "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_CI_low_cs": {
+  "value": 1.056014101082701,
+  "decimals": 2
+ },
+ "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_CI_high_cs": {
+  "value": 2.2117850349821784,
+  "decimals": 2
+ },
+ "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_p_cs": {
+  "value": 0.01591315875980044,
+  "decimals": 3
+ },
+ "pa_m90_+_inflammatory_(NLR,_CRP,_WBC)_EPV_cs": {
+  "value": 2.888888888888889,
+  "decimals": 1
  },
  "pa_m90_+_all_blocks_jointly_OR": {
   "value": 1.2815288301259289,
@@ -1892,7 +2288,7 @@
   "decimals": 3
  },
  "pa_m90_+_all_blocks_jointly_EPV": {
-  "value": 1.68,
+  "value": 1.04,
   "decimals": 1
  },
  "pa_m90_+_all_blocks_jointly_n": {
@@ -1900,6 +2296,42 @@
   "decimals": 0
  },
  "pa_m90_+_all_blocks_jointly_events": {
+  "value": 42.0,
+  "decimals": 0
+ },
+ "pa_m90_+_all_blocks_jointly_OR_cs": {
+  "value": 1.2815288301259289,
+  "decimals": 2
+ },
+ "pa_m90_+_all_blocks_jointly_CI_low_cs": {
+  "value": 0.8687951876193957,
+  "decimals": 2
+ },
+ "pa_m90_+_all_blocks_jointly_CI_high_cs": {
+  "value": 3.125758692457215,
+  "decimals": 2
+ },
+ "pa_m90_+_all_blocks_jointly_p_cs": {
+  "value": 0.3258557882489177,
+  "decimals": 3
+ },
+ "pa_m90_+_all_blocks_jointly_EPV_cs": {
+  "value": 1.04,
+  "decimals": 1
+ },
+ "pa_m90_cs_min": {
+  "value": 1.341182933424894,
+  "decimals": 2
+ },
+ "pa_m90_cs_max": {
+  "value": 1.632127929340103,
+  "decimals": 2
+ },
+ "pa_m90_cs_n": {
+  "value": 68.0,
+  "decimals": 0
+ },
+ "pa_m90_cs_events": {
   "value": 42.0,
   "decimals": 0
  },
@@ -1972,7 +2404,7 @@
   "decimals": 0
  },
  "sg_feni_Diabetes_1_EPV": {
-  "value": 2.1666666666666665,
+  "value": 1.6666666666666667,
   "decimals": 1
  },
  "sg_feni_mTICI3_0_OR": {
@@ -2008,7 +2440,7 @@
   "decimals": 0
  },
  "sg_feni_mTICI3_0_EPV": {
-  "value": 4.0,
+  "value": 2.0,
   "decimals": 1
  },
  "sg_feni_mTICI3_1_OR": {
@@ -2080,7 +2512,7 @@
   "decimals": 0
  },
  "sg_feni_IVtPA_0_EPV": {
-  "value": 2.0,
+  "value": 1.6666666666666667,
   "decimals": 1
  },
  "sg_feni_IVtPA_1_OR": {
@@ -2176,7 +2608,7 @@
   "decimals": 0
  },
  "sg_m90_Diabetes_0_EPV": {
-  "value": 5.333333333333333,
+  "value": 4.333333333333333,
   "decimals": 1
  },
  "sg_m90_Diabetes_1_OR": {
@@ -2212,7 +2644,7 @@
   "decimals": 0
  },
  "sg_m90_Diabetes_1_EPV": {
-  "value": 3.0,
+  "value": 0.8333333333333334,
   "decimals": 1
  },
  "sg_m90_mTICI3_0_OR": {
@@ -2248,7 +2680,7 @@
   "decimals": 0
  },
  "sg_m90_mTICI3_0_EPV": {
-  "value": 4.0,
+  "value": 1.6,
   "decimals": 1
  },
  "sg_m90_mTICI3_1_OR": {
@@ -2284,7 +2716,7 @@
   "decimals": 0
  },
  "sg_m90_mTICI3_1_EPV": {
-  "value": 6.0,
+  "value": 4.6,
   "decimals": 1
  },
  "sg_m90_IVtPA_0_OR": {
@@ -2320,7 +2752,7 @@
   "decimals": 0
  },
  "sg_m90_IVtPA_0_EPV": {
-  "value": 2.1666666666666665,
+  "value": 1.5,
   "decimals": 1
  },
  "sg_m90_IVtPA_1_OR": {
@@ -2356,7 +2788,7 @@
   "decimals": 0
  },
  "sg_m90_IVtPA_1_EPV": {
-  "value": 6.166666666666667,
+  "value": 3.6666666666666665,
   "decimals": 1
  },
  "int_m90_Diabetes_p": {
@@ -2399,13 +2831,137 @@
   "value": 0.0001307789737835964,
   "decimals": 4
  },
- "ord90_Q": {
-  "value": 1.4759836740876535,
+ "ord90_brant_glucose_chi2": {
+  "value": 2.5742317593108193,
   "decimals": 2
  },
- "ord90_p_heterogeneity": {
-  "value": 0.915824541153207,
+ "ord90_brant_glucose_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_brant_glucose_p": {
+  "value": 0.7652764650183786,
   "decimals": 2
+ },
+ "ord90_brant_omnibus_chi2": {
+  "value": 38.834575934327646,
+  "decimals": 2
+ },
+ "ord90_brant_omnibus_df": {
+  "value": 25.0,
+  "decimals": 0
+ },
+ "ord90_brant_omnibus_p": {
+  "value": 0.03827003515374811,
+  "decimals": 3
+ },
+ "ord90_brant_otr_chi2": {
+  "value": 16.159723612757503,
+  "decimals": 2
+ },
+ "ord90_brant_otr_p": {
+  "value": 0.0064025467244387055,
+  "decimals": 3
+ },
+ "ord90_brant_min_p": {
+  "value": 0.0064025467244387055,
+  "decimals": 3
+ },
+ "ord90_brant_Glucose_mmol_chi2": {
+  "value": 2.5742317593108193,
+  "decimals": 2
+ },
+ "ord90_brant_Glucose_mmol_p": {
+  "value": 0.7652764650183786,
+  "decimals": 3
+ },
+ "ord90_brant_Glucose_mmol_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_brant_z_Age_chi2": {
+  "value": 6.7399175503087765,
+  "decimals": 2
+ },
+ "ord90_brant_z_Age_p": {
+  "value": 0.24071258478080368,
+  "decimals": 3
+ },
+ "ord90_brant_z_Age_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_brant_z_NIHSS_admission_chi2": {
+  "value": 7.941090623690575,
+  "decimals": 2
+ },
+ "ord90_brant_z_NIHSS_admission_p": {
+  "value": 0.15951226198751364,
+  "decimals": 3
+ },
+ "ord90_brant_z_NIHSS_admission_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_brant_mTICI3_chi2": {
+  "value": 1.8433617464589458,
+  "decimals": 2
+ },
+ "ord90_brant_mTICI3_p": {
+  "value": 0.8703665051525759,
+  "decimals": 3
+ },
+ "ord90_brant_mTICI3_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_brant_z_onset_to_recan_h_chi2": {
+  "value": 16.159723612757503,
+  "decimals": 2
+ },
+ "ord90_brant_z_onset_to_recan_h_p": {
+  "value": 0.0064025467244387055,
+  "decimals": 3
+ },
+ "ord90_brant_z_onset_to_recan_h_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_ppo_OR": {
+  "value": 1.5661507506696148,
+  "decimals": 2
+ },
+ "ord90_ppo_CI_low": {
+  "value": 1.286737024015902,
+  "decimals": 2
+ },
+ "ord90_ppo_CI_high": {
+  "value": 1.9132029345489971,
+  "decimals": 2
+ },
+ "ord90_ppo_p_lr": {
+  "value": 0.05950688012907176,
+  "decimals": 3
+ },
+ "ord90_ppo_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord90_ppo_hess_min_eig": {
+  "value": -1.1730888821731553e+18,
+  "decimals": 4
+ },
+ "ord90_brant_nonconverged": {
+  "value": 0.0,
+  "decimals": 0
+ },
+ "ord90_brant_min_side": {
+  "value": 10.0,
+  "decimals": 0
+ },
+ "ord90_brant_min_eig": {
+  "value": 0.0004244517708895917,
+  "decimals": 6
  },
  "ord90_cOR1": {
   "value": 1.5386242061311217,
@@ -2439,13 +2995,113 @@
   "value": 0.0009533531680037504,
   "decimals": 4
  },
- "ord12_Q": {
-  "value": 2.9067200284066814,
+ "ord12_brant_glucose_chi2": {
+  "value": 6.522909679166651,
   "decimals": 2
  },
- "ord12_p_heterogeneity": {
-  "value": 0.7143642422792443,
+ "ord12_brant_glucose_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_glucose_p": {
+  "value": 0.25860690102865447,
   "decimals": 2
+ },
+ "ord12_brant_omnibus_chi2": {
+  "value": 35.1091935232823,
+  "decimals": 2
+ },
+ "ord12_brant_omnibus_df": {
+  "value": 25.0,
+  "decimals": 0
+ },
+ "ord12_brant_omnibus_p": {
+  "value": 0.08624589591868796,
+  "decimals": 3
+ },
+ "ord12_brant_otr_chi2": {
+  "value": 9.244204665115408,
+  "decimals": 2
+ },
+ "ord12_brant_otr_p": {
+  "value": 0.09971122393007244,
+  "decimals": 3
+ },
+ "ord12_brant_min_p": {
+  "value": 0.06247058202726228,
+  "decimals": 3
+ },
+ "ord12_brant_Glucose_mmol_chi2": {
+  "value": 6.522909679166651,
+  "decimals": 2
+ },
+ "ord12_brant_Glucose_mmol_p": {
+  "value": 0.25860690102865447,
+  "decimals": 3
+ },
+ "ord12_brant_Glucose_mmol_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_z_Age_chi2": {
+  "value": 10.490553854908718,
+  "decimals": 2
+ },
+ "ord12_brant_z_Age_p": {
+  "value": 0.06247058202726228,
+  "decimals": 3
+ },
+ "ord12_brant_z_Age_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_z_NIHSS_admission_chi2": {
+  "value": 7.584695020287512,
+  "decimals": 2
+ },
+ "ord12_brant_z_NIHSS_admission_p": {
+  "value": 0.1806580947647621,
+  "decimals": 3
+ },
+ "ord12_brant_z_NIHSS_admission_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_mTICI3_chi2": {
+  "value": 4.660923170855126,
+  "decimals": 2
+ },
+ "ord12_brant_mTICI3_p": {
+  "value": 0.4586452676056718,
+  "decimals": 3
+ },
+ "ord12_brant_mTICI3_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_z_onset_to_recan_h_chi2": {
+  "value": 9.244204665115408,
+  "decimals": 2
+ },
+ "ord12_brant_z_onset_to_recan_h_p": {
+  "value": 0.09971122393007244,
+  "decimals": 3
+ },
+ "ord12_brant_z_onset_to_recan_h_df": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "ord12_brant_nonconverged": {
+  "value": 0.0,
+  "decimals": 0
+ },
+ "ord12_brant_min_side": {
+  "value": 12.0,
+  "decimals": 0
+ },
+ "ord12_brant_min_eig": {
+  "value": 2.4097217074489853e-05,
+  "decimals": 6
  },
  "ord12_cOR1": {
   "value": 1.5218763039439378,
@@ -2475,6 +3131,22 @@
   "value": 3.432119235439714,
   "decimals": 0
  },
+ "med_feni_red": {
+  "value": 3.432119235439714,
+  "decimals": 0
+ },
+ "med_feni_red_lo": {
+  "value": -14.344864601044865,
+  "decimals": 0
+ },
+ "med_feni_red_hi": {
+  "value": 17.369401077755757,
+  "decimals": 0
+ },
+ "med_feni_n_boot": {
+  "value": 1000.0,
+  "decimals": 0
+ },
  "med_feni_orx": {
   "value": 1.1777374451986526,
   "decimals": 1
@@ -2501,6 +3173,22 @@
  },
  "med_m90_pct": {
   "value": 12.13872815314917,
+  "decimals": 0
+ },
+ "med_m90_red": {
+  "value": 12.13872815314917,
+  "decimals": 0
+ },
+ "med_m90_red_lo": {
+  "value": -15.411736795588626,
+  "decimals": 0
+ },
+ "med_m90_red_hi": {
+  "value": 54.296522081917175,
+  "decimals": 0
+ },
+ "med_m90_n_boot": {
+  "value": 1000.0,
   "decimals": 0
  },
  "med_m90_orx": {
@@ -3924,91 +4612,131 @@
   "decimals": 2
  },
  "cv_feni_adjustment_set_ci_lo": {
-  "value": 0.533575327471414,
+  "value": 0.5202800059417706,
   "decimals": 2
  },
  "cv_feni_adjustment_set_ci_hi": {
-  "value": 0.7493151054629169,
+  "value": 0.7564965127465126,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_AUC": {
-  "value": 0.8308163265306122,
+ "cv_feni_adjustment_set_wp_ci_lo": {
+  "value": 0.40556168236525375,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_pct2.5": {
-  "value": 0.8066454081632652,
+ "cv_feni_adjustment_set_wp_ci_hi": {
+  "value": 0.7448770053475936,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_pct97.5": {
-  "value": 0.8523852040816325,
+ "cv_feni_p_screen_selected_factors_AUC": {
+  "value": 0.8224489795918368,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_delta_vs_adjustment_set": {
-  "value": 0.18454081632653058,
+ "cv_feni_p_screen_selected_factors_pct2.5": {
+  "value": 0.7993622448979592,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_delta_pct2.5": {
-  "value": 0.1601275510204082,
+ "cv_feni_p_screen_selected_factors_pct97.5": {
+  "value": 0.8401147959183674,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_delta_pct97.5": {
-  "value": 0.21693877551020402,
+ "cv_feni_p_screen_selected_factors_delta_vs_adjustment_set": {
+  "value": 0.17617346938775508,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_ci_lo": {
-  "value": 0.7416578161350053,
+ "cv_feni_p_screen_selected_factors_delta_pct2.5": {
+  "value": 0.14813775510204089,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_ci_hi": {
-  "value": 0.9068521853048,
+ "cv_feni_p_screen_selected_factors_delta_pct97.5": {
+  "value": 0.20780612244897953,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_delta_ci_lo": {
-  "value": 0.08159989837398388,
+ "cv_feni_p_screen_selected_factors_ci_lo": {
+  "value": 0.7169221435793731,
   "decimals": 2
  },
- "cv_feni_p_admission_glucose_delta_ci_hi": {
-  "value": 0.2883907751293421,
+ "cv_feni_p_screen_selected_factors_ci_hi": {
+  "value": 0.8973523977218382,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_AUC": {
-  "value": 0.8033673469387754,
+ "cv_feni_p_screen_selected_factors_delta_ci_lo": {
+  "value": 0.06625954927425524,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_pct2.5": {
-  "value": 0.7784948979591836,
+ "cv_feni_p_screen_selected_factors_delta_ci_hi": {
+  "value": 0.3013776541961577,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_pct97.5": {
-  "value": 0.8247831632653062,
+ "cv_feni_p_screen_selected_factors_wp_ci_lo": {
+  "value": 0.5782396669486805,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_delta_vs_adjustment_set": {
-  "value": 0.15709183673469387,
+ "cv_feni_p_screen_selected_factors_wp_ci_hi": {
+  "value": 0.8879750933255315,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_delta_pct2.5": {
-  "value": 0.1345663265306122,
+ "cv_feni_p_screen_selected_factors_wp_delta_ci_lo": {
+  "value": -0.056349618207428266,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_delta_pct97.5": {
-  "value": 0.1894005102040816,
+ "cv_feni_p_screen_selected_factors_wp_delta_ci_hi": {
+  "value": 0.35940210932857997,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_ci_lo": {
-  "value": 0.7112967153602017,
+ "cv_feni_p_selected_domain_scores_AUC": {
+  "value": 0.7975,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_ci_hi": {
-  "value": 0.884652564102564,
+ "cv_feni_p_selected_domain_scores_pct2.5": {
+  "value": 0.7735586734693878,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_delta_ci_lo": {
-  "value": 0.05794719150969153,
+ "cv_feni_p_selected_domain_scores_pct97.5": {
+  "value": 0.8233801020408164,
   "decimals": 2
  },
- "cv_feni_p_metabolic_score_delta_ci_hi": {
-  "value": 0.26381452908701397,
+ "cv_feni_p_selected_domain_scores_delta_vs_adjustment_set": {
+  "value": 0.15122448979591838,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_delta_pct2.5": {
+  "value": 0.11429846938775506,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_delta_pct97.5": {
+  "value": 0.18749999999999997,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_ci_lo": {
+  "value": 0.6860432718361962,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_ci_hi": {
+  "value": 0.8835795097423005,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_delta_ci_lo": {
+  "value": 0.0433040488922842,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_delta_ci_hi": {
+  "value": 0.2748044635544635,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_wp_ci_lo": {
+  "value": 0.5831825657894737,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_wp_ci_hi": {
+  "value": 0.8762216901844562,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_wp_delta_ci_lo": {
+  "value": -0.016017986141825202,
+  "decimals": 2
+ },
+ "cv_feni_p_selected_domain_scores_wp_delta_ci_hi": {
+  "value": 0.32082908163265317,
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_AUC": {
@@ -4028,7 +4756,7 @@
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_delta_pct2.5": {
-  "value": -0.12585459183673467,
+  "value": -0.12585459183673472,
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_delta_pct97.5": {
@@ -4036,91 +4764,123 @@
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_ci_lo": {
-  "value": 0.4754705357142856,
+  "value": 0.4354560547374342,
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_ci_hi": {
-  "value": 0.6867648315905309,
+  "value": 0.7114017937798426,
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_delta_ci_lo": {
-  "value": -0.12612402378027385,
+  "value": -0.18344735621521338,
   "decimals": 2
  },
  "cv_feni_p_inflammatory_panel_delta_ci_hi": {
-  "value": -0.0051221964971964636,
+  "value": 0.035960115872296375,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_AUC": {
-  "value": 0.7839285714285713,
+ "cv_feni_p_inflammatory_panel_wp_ci_lo": {
+  "value": 0.3601393001588907,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_pct2.5": {
-  "value": 0.7431760204081632,
+ "cv_feni_p_inflammatory_panel_wp_ci_hi": {
+  "value": 0.7299615384615386,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_pct97.5": {
-  "value": 0.818265306122449,
+ "cv_feni_p_inflammatory_panel_wp_delta_ci_lo": {
+  "value": -0.184592526199669,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_delta_vs_adjustment_set": {
-  "value": 0.13765306122448978,
+ "cv_feni_p_inflammatory_panel_wp_delta_ci_hi": {
+  "value": 0.09142598684210526,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_delta_pct2.5": {
-  "value": 0.07918367346938782,
+ "cv_feni_p_all_labs_p_screen_selected_factors_AUC": {
+  "value": 0.7841326530612245,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_delta_pct97.5": {
-  "value": 0.17877551020408158,
+ "cv_feni_p_all_labs_p_screen_selected_factors_pct2.5": {
+  "value": 0.747219387755102,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_ci_lo": {
-  "value": 0.6894166021671828,
+ "cv_feni_p_all_labs_p_screen_selected_factors_pct97.5": {
+  "value": 0.8219260204081632,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_ci_hi": {
-  "value": 0.8656236471861471,
+ "cv_feni_p_all_labs_p_screen_selected_factors_delta_vs_adjustment_set": {
+  "value": 0.13785714285714282,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_delta_ci_lo": {
-  "value": 0.026364223120997548,
+ "cv_feni_p_all_labs_p_screen_selected_factors_delta_pct2.5": {
+  "value": 0.08086734693877548,
   "decimals": 2
  },
- "cv_feni_p_all_labs_p_admission_glucose_delta_ci_hi": {
-  "value": 0.24852031799912014,
+ "cv_feni_p_all_labs_p_screen_selected_factors_delta_pct97.5": {
+  "value": 0.18216836734693873,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_ci_lo": {
+  "value": 0.6709390454746492,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_ci_hi": {
+  "value": 0.8816168308317698,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_delta_ci_lo": {
+  "value": 0.009211640211640244,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_delta_ci_hi": {
+  "value": 0.2714505494505494,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_wp_ci_lo": {
+  "value": 0.5061323631323631,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_wp_ci_hi": {
+  "value": 0.861847596300161,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_wp_delta_ci_lo": {
+  "value": -0.13529635709818633,
+  "decimals": 2
+ },
+ "cv_feni_p_all_labs_p_screen_selected_factors_wp_delta_ci_hi": {
+  "value": 0.3139868890139789,
   "decimals": 2
  },
  "cal_feni_intercept": {
-  "value": -0.012013436805046854,
+  "value": -0.012849946486338904,
   "decimals": 2
  },
  "cal_feni_slope": {
-  "value": 0.9606305707158975,
+  "value": 0.8592561456578587,
   "decimals": 2
  },
  "cal_feni_brier": {
-  "value": 0.1635132967432156,
+  "value": 0.1708990479387943,
   "decimals": 2
  },
  "cal_feni_brier3": {
-  "value": 0.1635132967432156,
+  "value": 0.1708990479387943,
   "decimals": 3
  },
  "cal_feni_i_lo": {
-  "value": -0.5361242790199053,
+  "value": -0.6101931200148966,
   "decimals": 2
  },
  "cal_feni_i_hi": {
-  "value": 0.5182921059330401,
+  "value": 0.526504233314226,
   "decimals": 2
  },
  "cal_feni_s_lo": {
-  "value": 0.6334083203149685,
+  "value": 0.5428563093544128,
   "decimals": 2
  },
  "cal_feni_s_hi": {
-  "value": 1.5037988226822203,
+  "value": 1.3124781449095104,
   "decimals": 2
  },
  "ml_feni_auc_min": {
@@ -4138,6 +4898,62 @@
  "ml_feni_perm_p": {
   "value": 0.000999000999000999,
   "decimals": 3
+ },
+ "sel_feni_Glucose": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "sel_feni_GPR": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "sel_feni_NIHSS_admission": {
+  "value": 0.0,
+  "decimals": 0
+ },
+ "selall_feni_Glucose": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "selall_feni_GPR": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "selall_feni_mTICI3": {
+  "value": 5.0,
+  "decimals": 0
+ },
+ "selall_feni_INR": {
+  "value": 2.0,
+  "decimals": 0
+ },
+ "dsel_feni_metabolic": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "dsel_feni_procedural": {
+  "value": 6.0,
+  "decimals": 0
+ },
+ "dsel_feni_coagulation": {
+  "value": 3.0,
+  "decimals": 0
+ },
+ "dsel_feni_renal_electrolyte": {
+  "value": 1.0,
+  "decimals": 0
+ },
+ "sel_feni_n_factors": {
+  "value": 4.0,
+  "decimals": 0
+ },
+ "sel_feni_median_k": {
+  "value": 2.0,
+  "decimals": 0
+ },
+ "sel_feni_max_k": {
+  "value": 4.0,
+  "decimals": 0
  },
  "ml_feni_anomaly": {
   "value": 0.5808673469387755,
@@ -4179,12 +4995,28 @@
   "value": 1.4939419479697449,
   "decimals": 1
  },
+ "sa_feni_nl_age": {
+  "value": 0.6754811981066337,
+  "decimals": 3
+ },
+ "sa_feni_nl_nihss": {
+  "value": 0.2662150440930072,
+  "decimals": 3
+ },
+ "sa_feni_nl_otr": {
+  "value": 0.7205774566488543,
+  "decimals": 3
+ },
+ "sa_feni_nl_adj_min": {
+  "value": 0.2662150440930072,
+  "decimals": 3
+ },
  "cv_m90_adjustment_set_AUC": {
   "value": 0.7178904428904429,
   "decimals": 2
  },
  "cv_m90_adjustment_set_pct2.5": {
-  "value": 0.6977855477855477,
+  "value": 0.6977855477855478,
   "decimals": 2
  },
  "cv_m90_adjustment_set_pct97.5": {
@@ -4192,91 +5024,131 @@
   "decimals": 2
  },
  "cv_m90_adjustment_set_ci_lo": {
-  "value": 0.6048213485512131,
+  "value": 0.5931882619296412,
   "decimals": 2
  },
  "cv_m90_adjustment_set_ci_hi": {
-  "value": 0.8236722279891646,
+  "value": 0.8339946253071253,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_AUC": {
-  "value": 0.7873543123543124,
+ "cv_m90_adjustment_set_wp_ci_lo": {
+  "value": 0.538630657638309,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_pct2.5": {
-  "value": 0.7709790209790209,
+ "cv_m90_adjustment_set_wp_ci_hi": {
+  "value": 0.8332893424036282,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_pct97.5": {
-  "value": 0.8030594405594407,
+ "cv_m90_p_screen_selected_factors_AUC": {
+  "value": 0.7272144522144522,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_delta_vs_adjustment_set": {
-  "value": 0.06946386946386945,
+ "cv_m90_p_screen_selected_factors_pct2.5": {
+  "value": 0.6814685314685315,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_delta_pct2.5": {
-  "value": 0.05620629370629365,
+ "cv_m90_p_screen_selected_factors_pct97.5": {
+  "value": 0.7519522144522144,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_delta_pct97.5": {
-  "value": 0.07956002331002335,
+ "cv_m90_p_screen_selected_factors_delta_vs_adjustment_set": {
+  "value": 0.009324009324009324,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_ci_lo": {
-  "value": 0.6883471661775497,
+ "cv_m90_p_screen_selected_factors_delta_pct2.5": {
+  "value": -0.03949592074592078,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_ci_hi": {
-  "value": 0.8805733403410171,
+ "cv_m90_p_screen_selected_factors_delta_pct97.5": {
+  "value": 0.034965034965035,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_delta_ci_lo": {
-  "value": 0.008820945709940681,
+ "cv_m90_p_screen_selected_factors_ci_lo": {
+  "value": 0.604946004507854,
   "decimals": 2
  },
- "cv_m90_p_admission_glucose_delta_ci_hi": {
-  "value": 0.1385062254738249,
+ "cv_m90_p_screen_selected_factors_ci_hi": {
+  "value": 0.8426632689344554,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_AUC": {
-  "value": 0.788986013986014,
+ "cv_m90_p_screen_selected_factors_delta_ci_lo": {
+  "value": -0.06308962264150941,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_pct2.5": {
-  "value": 0.7718094405594406,
+ "cv_m90_p_screen_selected_factors_delta_ci_hi": {
+  "value": 0.08061153339414205,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_pct97.5": {
-  "value": 0.8063082750582751,
+ "cv_m90_p_screen_selected_factors_wp_ci_lo": {
+  "value": 0.4853767336761727,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_delta_vs_adjustment_set": {
-  "value": 0.07109557109557109,
+ "cv_m90_p_screen_selected_factors_wp_ci_hi": {
+  "value": 0.8203748829039813,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_delta_pct2.5": {
-  "value": 0.058828671328671304,
+ "cv_m90_p_screen_selected_factors_wp_delta_ci_lo": {
+  "value": -0.12693668787959436,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_delta_pct97.5": {
-  "value": 0.08136655011655013,
+ "cv_m90_p_screen_selected_factors_wp_delta_ci_hi": {
+  "value": 0.1534117710120069,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_ci_lo": {
-  "value": 0.6893209534368071,
+ "cv_m90_p_selected_domain_scores_AUC": {
+  "value": 0.7714743589743589,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_ci_hi": {
-  "value": 0.8817854882572627,
+ "cv_m90_p_selected_domain_scores_pct2.5": {
+  "value": 0.7421911421911422,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_delta_ci_lo": {
-  "value": 0.00804341133004935,
+ "cv_m90_p_selected_domain_scores_pct97.5": {
+  "value": 0.7986596736596736,
   "decimals": 2
  },
- "cv_m90_p_metabolic_score_delta_ci_hi": {
-  "value": 0.14196610547988586,
+ "cv_m90_p_selected_domain_scores_delta_vs_adjustment_set": {
+  "value": 0.053583916083916085,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_delta_pct2.5": {
+  "value": 0.028190559440559437,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_delta_pct97.5": {
+  "value": 0.08081293706293706,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_ci_lo": {
+  "value": 0.6580017301038062,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_ci_hi": {
+  "value": 0.8763641906873614,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_delta_ci_lo": {
+  "value": -0.01865174299384829,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_delta_ci_hi": {
+  "value": 0.1308608729979697,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_wp_ci_lo": {
+  "value": 0.5263985005767013,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_wp_ci_hi": {
+  "value": 0.8577337860820005,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_wp_delta_ci_lo": {
+  "value": -0.09213325867861138,
+  "decimals": 2
+ },
+ "cv_m90_p_selected_domain_scores_wp_delta_ci_hi": {
+  "value": 0.17341949746375468,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_AUC": {
@@ -4288,15 +5160,15 @@
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_pct97.5": {
-  "value": 0.7151515151515151,
+  "value": 0.7151515151515152,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_delta_vs_adjustment_set": {
-  "value": -0.04647435897435899,
+  "value": -0.04647435897435896,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_delta_pct2.5": {
-  "value": -0.10072843822843816,
+  "value": -0.10072843822843822,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_delta_pct97.5": {
@@ -4304,91 +5176,123 @@
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_ci_lo": {
-  "value": 0.5596011178021381,
+  "value": 0.5414683536777173,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_ci_hi": {
-  "value": 0.7809998558246827,
+  "value": 0.797284261298102,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_delta_ci_lo": {
-  "value": -0.09824637023593474,
+  "value": -0.1317874804292206,
   "decimals": 2
  },
  "cv_m90_p_inflammatory_panel_delta_ci_hi": {
-  "value": 0.005118353929807199,
+  "value": 0.03568587209891558,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_AUC": {
-  "value": 0.7317016317016316,
+ "cv_m90_p_inflammatory_panel_wp_ci_lo": {
+  "value": 0.4659621212121212,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_pct2.5": {
-  "value": 0.7009032634032634,
+ "cv_m90_p_inflammatory_panel_wp_ci_hi": {
+  "value": 0.7994077226713494,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_pct97.5": {
-  "value": 0.7785110722610722,
+ "cv_m90_p_inflammatory_panel_wp_delta_ci_lo": {
+  "value": -0.1428728070175439,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_delta_vs_adjustment_set": {
-  "value": 0.013811188811188802,
+ "cv_m90_p_inflammatory_panel_wp_delta_ci_hi": {
+  "value": 0.07135419382877017,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_delta_pct2.5": {
-  "value": -0.01662296037296038,
+ "cv_m90_p_all_labs_p_screen_selected_factors_AUC": {
+  "value": 0.68490675990676,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_delta_pct97.5": {
-  "value": 0.06274766899766887,
+ "cv_m90_p_all_labs_p_screen_selected_factors_pct2.5": {
+  "value": 0.6272727272727272,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_ci_lo": {
-  "value": 0.6297768328445748,
+ "cv_m90_p_all_labs_p_screen_selected_factors_pct97.5": {
+  "value": 0.7296474358974359,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_ci_hi": {
-  "value": 0.8235445501730103,
+ "cv_m90_p_all_labs_p_screen_selected_factors_delta_vs_adjustment_set": {
+  "value": -0.03298368298368299,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_delta_ci_lo": {
-  "value": -0.07136245674740488,
+ "cv_m90_p_all_labs_p_screen_selected_factors_delta_pct2.5": {
+  "value": -0.09452214452214452,
   "decimals": 2
  },
- "cv_m90_p_all_labs_p_admission_glucose_delta_ci_hi": {
-  "value": 0.09694284235433298,
+ "cv_m90_p_all_labs_p_screen_selected_factors_delta_pct97.5": {
+  "value": 0.0160984848484848,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_ci_lo": {
+  "value": 0.5510376756066412,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_ci_hi": {
+  "value": 0.8111421911421911,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_delta_ci_lo": {
+  "value": -0.14160882221227056,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_delta_ci_hi": {
+  "value": 0.0670486358546269,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_wp_ci_lo": {
+  "value": 0.43346201883701885,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_wp_ci_hi": {
+  "value": 0.8122651515151516,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_wp_delta_ci_lo": {
+  "value": -0.20515151515151508,
+  "decimals": 2
+ },
+ "cv_m90_p_all_labs_p_screen_selected_factors_wp_delta_ci_hi": {
+  "value": 0.13822727272727273,
   "decimals": 2
  },
  "cal_m90_intercept": {
-  "value": -0.003596105321103702,
+  "value": 0.03418492244566148,
   "decimals": 2
  },
  "cal_m90_slope": {
-  "value": 0.8385652511598244,
+  "value": 0.600199931078631,
   "decimals": 2
  },
  "cal_m90_brier": {
-  "value": 0.18052812940285262,
+  "value": 0.20678944675155156,
   "decimals": 2
  },
  "cal_m90_brier3": {
-  "value": 0.18052812940285262,
+  "value": 0.20678944675155156,
   "decimals": 3
  },
  "cal_m90_i_lo": {
-  "value": -0.47834938418118494,
+  "value": -0.5012211641710965,
   "decimals": 2
  },
  "cal_m90_i_hi": {
-  "value": 0.5541455425690582,
+  "value": 0.6022243897342862,
   "decimals": 2
  },
  "cal_m90_s_lo": {
-  "value": 0.470398092976924,
+  "value": 0.24309877825449525,
   "decimals": 2
  },
  "cal_m90_s_hi": {
-  "value": 1.5035995986707813,
+  "value": 1.2582876089531017,
   "decimals": 2
  },
  "ml_m90_auc_min": {
@@ -4400,12 +5304,72 @@
   "decimals": 2
  },
  "ml_m90_rho": {
-  "value": 0.2882774906098007,
+  "value": 0.11265836719976104,
   "decimals": 2
  },
  "ml_m90_perm_p": {
-  "value": 0.005994005994005994,
+  "value": 0.4145854145854146,
   "decimals": 3
+ },
+ "sel_m90_Glucose": {
+  "value": 28.0,
+  "decimals": 0
+ },
+ "sel_m90_GPR": {
+  "value": 31.0,
+  "decimals": 0
+ },
+ "sel_m90_NIHSS_admission": {
+  "value": 56.0,
+  "decimals": 0
+ },
+ "selall_m90_NIHSS_admission": {
+  "value": 56.0,
+  "decimals": 0
+ },
+ "selall_m90_GPR": {
+  "value": 31.0,
+  "decimals": 0
+ },
+ "selall_m90_Glucose": {
+  "value": 28.0,
+  "decimals": 0
+ },
+ "selall_m90_INR": {
+  "value": 6.0,
+  "decimals": 0
+ },
+ "selall_m90_onset_to_recan_h": {
+  "value": 4.0,
+  "decimals": 0
+ },
+ "selall_m90_CRP": {
+  "value": 1.0,
+  "decimals": 0
+ },
+ "dsel_m90_metabolic": {
+  "value": 92.0,
+  "decimals": 0
+ },
+ "dsel_m90_coagulation": {
+  "value": 9.0,
+  "decimals": 0
+ },
+ "dsel_m90_procedural": {
+  "value": 8.0,
+  "decimals": 0
+ },
+ "sel_m90_n_factors": {
+  "value": 6.0,
+  "decimals": 0
+ },
+ "sel_m90_median_k": {
+  "value": 1.0,
+  "decimals": 0
+ },
+ "sel_m90_max_k": {
+  "value": 3.0,
+  "decimals": 0
  },
  "ml_m90_anomaly": {
   "value": 0.5847902097902098,
@@ -4447,8 +5411,212 @@
   "value": 0.017876470988468895,
   "decimals": 1
  },
+ "sa_m90_nl_age": {
+  "value": 0.054206110990976185,
+  "decimals": 3
+ },
+ "sa_m90_nl_nihss": {
+  "value": 0.023069778034192898,
+  "decimals": 3
+ },
+ "sa_m90_nl_otr": {
+  "value": 0.26101378970973627,
+  "decimals": 3
+ },
+ "sa_m90_nl_adj_min": {
+  "value": 0.023069778034192898,
+  "decimals": 3
+ },
+ "sa_m90_spl_nihss_OR": {
+  "value": 1.5123656799463037,
+  "decimals": 2
+ },
+ "sa_m90_spl_nihss_CI_low": {
+  "value": 1.1350458463544142,
+  "decimals": 2
+ },
+ "sa_m90_spl_nihss_CI_high": {
+  "value": 2.3704569291853215,
+  "decimals": 2
+ },
+ "sa_m90_spl_nihss_p": {
+  "value": 0.0017020977714257016,
+  "decimals": 3
+ },
+ "cv_n_folds": {
+  "value": 100.0,
+  "decimals": 0
+ },
+ "cv_n_boot": {
+  "value": 200.0,
+  "decimals": 0
+ },
+ "cv_n_perm": {
+  "value": 1000.0,
+  "decimals": 0
+ },
+ "sdef_prim_OR": {
+  "value": 1.8078059924571845,
+  "decimals": 2
+ },
+ "sdef_prim_CI_low": {
+  "value": 1.3594070797197448,
+  "decimals": 2
+ },
+ "sdef_prim_CI_high": {
+  "value": 2.753068118162512,
+  "decimals": 2
+ },
+ "sdef_prim_p": {
+  "value": 4.13433504413894e-07,
+  "decimals": 3
+ },
+ "sdef_prim_n": {
+  "value": 85.0,
+  "decimals": 0
+ },
+ "sdef_prim_events": {
+  "value": 38.0,
+  "decimals": 0
+ },
+ "sdef_alt_OR": {
+  "value": 1.8078059924571845,
+  "decimals": 2
+ },
+ "sdef_alt_CI_low": {
+  "value": 1.3594070797197448,
+  "decimals": 2
+ },
+ "sdef_alt_CI_high": {
+  "value": 2.753068118162512,
+  "decimals": 2
+ },
+ "sdef_alt_p": {
+  "value": 4.13433504413894e-07,
+  "decimals": 3
+ },
+ "sdef_alt_n": {
+  "value": 85.0,
+  "decimals": 0
+ },
+ "sdef_alt_events": {
+  "value": 38.0,
+  "decimals": 0
+ },
+ "sdef_surv_OR": {
+  "value": 1.789046413054153,
+  "decimals": 2
+ },
+ "sdef_surv_CI_low": {
+  "value": 1.2648399067409524,
+  "decimals": 2
+ },
+ "sdef_surv_CI_high": {
+  "value": 2.8735030180633583,
+  "decimals": 2
+ },
+ "sdef_surv_p": {
+  "value": 0.000707445303315467,
+  "decimals": 3
+ },
+ "sdef_surv_n": {
+  "value": 66.0,
+  "decimals": 0
+ },
+ "sdef_surv_events": {
+  "value": 19.0,
+  "decimals": 0
+ },
+ "sdef_los_OR": {
+  "value": 1.7275053988489903,
+  "decimals": 2
+ },
+ "sdef_los_CI_low": {
+  "value": 1.22514536887058,
+  "decimals": 2
+ },
+ "sdef_los_CI_high": {
+  "value": 2.7711327400905166,
+  "decimals": 2
+ },
+ "sdef_los_p": {
+  "value": 0.001275364381205554,
+  "decimals": 3
+ },
+ "sdef_los_n": {
+  "value": 66.0,
+  "decimals": 0
+ },
+ "sdef_los_events": {
+  "value": 19.0,
+  "decimals": 0
+ },
+ "feni_reclassified": {
+  "value": 0.0,
+  "decimals": 0
+ },
+ "los_median": {
+  "value": 11.0,
+  "decimals": 0
+ },
+ "los_q1": {
+  "value": 9.0,
+  "decimals": 0
+ },
+ "los_q3": {
+  "value": 15.0,
+  "decimals": 0
+ },
+ "los_min": {
+  "value": 3.0,
+  "decimals": 0
+ },
+ "los_max": {
+  "value": 36.0,
+  "decimals": 0
+ },
+ "los_median_feni": {
+  "value": 12.0,
+  "decimals": 1
+ },
+ "los_median_eni": {
+  "value": 10.0,
+  "decimals": 0
+ },
+ "los_rho_glucose": {
+  "value": 0.0964791573787277,
+  "decimals": 2
+ },
+ "los_p_glucose": {
+  "value": 0.43033571293167566,
+  "decimals": 2
+ },
+ "los_p_feni": {
+  "value": 0.38710405466463094,
+  "decimals": 2
+ },
+ "los_n_disch_01": {
+  "value": 9.0,
+  "decimals": 0
+ },
+ "los_min_adm_nihss": {
+  "value": 4.0,
+  "decimals": 0
+ },
+ "diag_firth_fits": {
+  "value": 16593.0,
+  "decimals": 0
+ },
+ "diag_firth_max_score": {
+  "value": 1.2923332759207096e-05,
+  "decimals": 8
+ },
+ "diag_firth_max_score_e5": {
+  "value": 1.2923332759207096,
+  "decimals": 1
+ },
  "ml_rho_min": {
-  "value": 0.2882774906098007,
+  "value": 0.11265836719976104,
   "decimals": 2
  },
  "ml_rho_max": {
@@ -4456,7 +5624,7 @@
   "decimals": 2
  },
  "ml_perm_p_max": {
-  "value": 0.005994005994005994,
+  "value": 0.4145854145854146,
   "decimals": 3
  },
  "dom_metabolic_nvars": {
@@ -12271,43 +13439,43 @@
   "value": 40.0,
   "decimals": 0
  },
- "ref_onset_to_recan_h_p": {
+ "ref_onset_min_p": {
   "value": 0.07012803693264462,
   "decimals": 3
  },
- "ref_onset_to_recan_h_p2": {
+ "ref_onset_min_p2": {
   "value": 0.07012803693264462,
   "decimals": 2
  },
- "ref_onset_to_recan_h_ref_median": {
-  "value": 4.183333333333334,
-  "decimals": 1
+ "ref_onset_min_ref_median": {
+  "value": 251.0,
+  "decimals": 0
  },
- "ref_onset_to_recan_h_ref_q1": {
-  "value": 3.4916666666666667,
-  "decimals": 1
+ "ref_onset_min_ref_q1": {
+  "value": 209.5,
+  "decimals": 0
  },
- "ref_onset_to_recan_h_ref_q3": {
-  "value": 5.645833333333333,
-  "decimals": 1
+ "ref_onset_min_ref_q3": {
+  "value": 338.75,
+  "decimals": 0
  },
- "ref_onset_to_recan_h_ref_n": {
+ "ref_onset_min_ref_n": {
   "value": 26.0,
   "decimals": 0
  },
- "ref_onset_to_recan_h_not_median": {
-  "value": 3.5999999999999996,
+ "ref_onset_min_not_median": {
+  "value": 216.0,
+  "decimals": 0
+ },
+ "ref_onset_min_not_q1": {
+  "value": 177.5,
   "decimals": 1
  },
- "ref_onset_to_recan_h_not_q1": {
-  "value": 2.9583333333333335,
+ "ref_onset_min_not_q3": {
+  "value": 271.0,
   "decimals": 1
  },
- "ref_onset_to_recan_h_not_q3": {
-  "value": 4.516666666666667,
-  "decimals": 1
- },
- "ref_onset_to_recan_h_not_n": {
+ "ref_onset_min_not_n": {
   "value": 40.0,
   "decimals": 0
  },
@@ -13611,6 +14779,14 @@
   "value": 0.11411688968059952,
   "decimals": 2
  },
+ "lm_barthel_in_fENI_p_hc3": {
+  "value": 0.016752921909437012,
+  "decimals": 3
+ },
+ "lm_barthel_in_fENI_q_hc3": {
+  "value": 0.10968018202064626,
+  "decimals": 3
+ },
  "lm_barthel_in_Glucose_mmol_beta": {
   "value": 0.7938555271275141,
   "decimals": 1
@@ -13658,6 +14834,14 @@
  "lm_barthel_in_Glucose_mmol_q2": {
   "value": 0.38216864295595565,
   "decimals": 2
+ },
+ "lm_barthel_in_Glucose_mmol_p_hc3": {
+  "value": 0.6519154783766645,
+  "decimals": 3
+ },
+ "lm_barthel_in_Glucose_mmol_q_hc3": {
+  "value": 0.8265901669099104,
+  "decimals": 3
  },
  "lm_barthel_in_metabolic_score_beta": {
   "value": 2.52909419431362,
@@ -13707,6 +14891,14 @@
   "value": 0.20582350990291112,
   "decimals": 2
  },
+ "lm_barthel_in_metabolic_score_p_hc3": {
+  "value": 0.3872759174838426,
+  "decimals": 3
+ },
+ "lm_barthel_in_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
+ },
  "lm_berg_in_fENI_beta": {
   "value": 21.0781434332526,
   "decimals": 1
@@ -13754,6 +14946,14 @@
  "lm_berg_in_fENI_q2": {
   "value": 0.11411688968059952,
   "decimals": 2
+ },
+ "lm_berg_in_fENI_p_hc3": {
+  "value": 0.018280030336774375,
+  "decimals": 3
+ },
+ "lm_berg_in_fENI_q_hc3": {
+  "value": 0.10968018202064626,
+  "decimals": 3
  },
  "lm_berg_in_Glucose_mmol_beta": {
   "value": 1.0251880898240235,
@@ -13803,6 +15003,14 @@
   "value": 0.6937027068953441,
   "decimals": 2
  },
+ "lm_berg_in_Glucose_mmol_p_hc3": {
+  "value": 0.8454647835736401,
+  "decimals": 3
+ },
+ "lm_berg_in_Glucose_mmol_q_hc3": {
+  "value": 0.8454647835736401,
+  "decimals": 3
+ },
  "lm_berg_in_metabolic_score_beta": {
   "value": 6.0931938920852815,
   "decimals": 1
@@ -13850,6 +15058,14 @@
  "lm_berg_in_metabolic_score_q2": {
   "value": 0.3832553732488908,
   "decimals": 2
+ },
+ "lm_berg_in_metabolic_score_p_hc3": {
+  "value": 0.5227701913894062,
+  "decimals": 3
+ },
+ "lm_berg_in_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
  },
  "lm_tct_in_fENI_beta": {
   "value": 33.42742859302553,
@@ -13899,6 +15115,14 @@
   "value": 0.11411688968059952,
   "decimals": 2
  },
+ "lm_tct_in_fENI_p_hc3": {
+  "value": 0.08951094785567333,
+  "decimals": 3
+ },
+ "lm_tct_in_fENI_q_hc3": {
+  "value": 0.28301320538342756,
+  "decimals": 3
+ },
  "lm_tct_in_Glucose_mmol_beta": {
   "value": 2.299319328378857,
   "decimals": 1
@@ -13946,6 +15170,14 @@
  "lm_tct_in_Glucose_mmol_q2": {
   "value": 0.5896575767496367,
   "decimals": 2
+ },
+ "lm_tct_in_Glucose_mmol_p_hc3": {
+  "value": 0.780668490970471,
+  "decimals": 3
+ },
+ "lm_tct_in_Glucose_mmol_q_hc3": {
+  "value": 0.8265901669099104,
+  "decimals": 3
  },
  "lm_tct_in_metabolic_score_beta": {
   "value": 10.065415603061208,
@@ -13995,6 +15227,14 @@
   "value": 0.38216864295595565,
   "decimals": 2
  },
+ "lm_tct_in_metabolic_score_p_hc3": {
+  "value": 0.5043433389679732,
+  "decimals": 3
+ },
+ "lm_tct_in_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
+ },
  "lm_sas_in_fENI_beta": {
   "value": 5.496098089056019,
   "decimals": 1
@@ -14042,6 +15282,14 @@
  "lm_sas_in_fENI_q2": {
   "value": 0.05110641692318566,
   "decimals": 2
+ },
+ "lm_sas_in_fENI_p_hc3": {
+  "value": 0.013014070557844403,
+  "decimals": 3
+ },
+ "lm_sas_in_fENI_q_hc3": {
+  "value": 0.10968018202064626,
+  "decimals": 3
  },
  "lm_sas_in_Glucose_mmol_beta": {
   "value": 0.3495652486252098,
@@ -14091,6 +15339,14 @@
   "value": 0.572760453536312,
   "decimals": 2
  },
+ "lm_sas_in_Glucose_mmol_p_hc3": {
+  "value": 0.7567956094438877,
+  "decimals": 3
+ },
+ "lm_sas_in_Glucose_mmol_q_hc3": {
+  "value": 0.8265901669099104,
+  "decimals": 3
+ },
  "lm_sas_in_metabolic_score_beta": {
   "value": 1.2519543582284518,
   "decimals": 1
@@ -14138,6 +15394,14 @@
  "lm_sas_in_metabolic_score_q2": {
   "value": 0.38216864295595565,
   "decimals": 2
+ },
+ "lm_sas_in_metabolic_score_p_hc3": {
+  "value": 0.5133939422217815,
+  "decimals": 3
+ },
+ "lm_sas_in_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
  },
  "lm_barthel_out_fENI_beta": {
   "value": 5.946001831816911,
@@ -14187,6 +15451,14 @@
   "value": 0.11411688968059952,
   "decimals": 2
  },
+ "lm_barthel_out_fENI_p_hc3": {
+  "value": 0.09433773512780919,
+  "decimals": 3
+ },
+ "lm_barthel_out_fENI_q_hc3": {
+  "value": 0.28301320538342756,
+  "decimals": 3
+ },
  "lm_barthel_out_Glucose_mmol_beta": {
   "value": 0.4948125400928335,
   "decimals": 1
@@ -14234,6 +15506,14 @@
  "lm_barthel_out_Glucose_mmol_q2": {
   "value": 0.572760453536312,
   "decimals": 2
+ },
+ "lm_barthel_out_Glucose_mmol_p_hc3": {
+  "value": 0.7442354375374602,
+  "decimals": 3
+ },
+ "lm_barthel_out_Glucose_mmol_q_hc3": {
+  "value": 0.8265901669099104,
+  "decimals": 3
  },
  "lm_barthel_out_metabolic_score_beta": {
   "value": 1.9951474334191495,
@@ -14283,6 +15563,14 @@
   "value": 0.38216864295595565,
   "decimals": 2
  },
+ "lm_barthel_out_metabolic_score_p_hc3": {
+  "value": 0.4847657044333601,
+  "decimals": 3
+ },
+ "lm_barthel_out_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
+ },
  "lm_berg_out_fENI_beta": {
   "value": 19.080042328140603,
   "decimals": 1
@@ -14330,6 +15618,14 @@
  "lm_berg_out_fENI_q2": {
   "value": 0.11411688968059952,
   "decimals": 2
+ },
+ "lm_berg_out_fENI_p_hc3": {
+  "value": 0.06255143361342287,
+  "decimals": 3
+ },
+ "lm_berg_out_fENI_q_hc3": {
+  "value": 0.2814814512604029,
+  "decimals": 3
  },
  "lm_berg_out_Glucose_mmol_beta": {
   "value": 1.5682090349557631,
@@ -14379,6 +15675,14 @@
   "value": 0.5715365018388582,
   "decimals": 2
  },
+ "lm_berg_out_Glucose_mmol_p_hc3": {
+  "value": 0.703843599331884,
+  "decimals": 3
+ },
+ "lm_berg_out_Glucose_mmol_q_hc3": {
+  "value": 0.8265901669099104,
+  "decimals": 3
+ },
  "lm_berg_out_metabolic_score_beta": {
   "value": 5.5418388734593975,
   "decimals": 1
@@ -14426,6 +15730,42 @@
  "lm_berg_out_metabolic_score_q2": {
   "value": 0.38216864295595565,
   "decimals": 2
+ },
+ "lm_berg_out_metabolic_score_p_hc3": {
+  "value": 0.46373255921256895,
+  "decimals": 3
+ },
+ "lm_berg_out_metabolic_score_q_hc3": {
+  "value": 0.7841552870841092,
+  "decimals": 3
+ },
+ "lm_n_models": {
+  "value": 18.0,
+  "decimals": 0
+ },
+ "lm_n_shapiro_lt05": {
+  "value": 7.0,
+  "decimals": 0
+ },
+ "lm_n_bp_lt05": {
+  "value": 2.0,
+  "decimals": 0
+ },
+ "lm_n_p_lt05": {
+  "value": 6.0,
+  "decimals": 0
+ },
+ "lm_n_p_hc3_lt05": {
+  "value": 3.0,
+  "decimals": 0
+ },
+ "lm_min_q_hc3": {
+  "value": 0.10968018202064626,
+  "decimals": 3
+ },
+ "lm_n_p_class_change": {
+  "value": 3.0,
+  "decimals": 0
  },
  "rho_nihss_reduction_barthel_in": {
   "value": 0.4627950040187818,

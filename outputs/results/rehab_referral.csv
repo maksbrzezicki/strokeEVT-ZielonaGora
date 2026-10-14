@@ -4,7 +4,7 @@ Admission NIHSS,17 (14 to 19),16 (10 to 18),40,29,-0.2433463401087483,0.32654696
 Discharge NIHSS,3 (2 to 14),6 (4 to 9),40,29,0.047041208079162435,0.17203282006973875,Mann-Whitney U
 "NIHSS reduction, admission to discharge",7 (3 to 13),7 (2 to 11),40,29,-0.24214649360723728,0.4836045098844636,Mann-Whitney U
 "Age, years",72.5 (66 to 78),70 (61 to 75),40,29,-0.2644498021395325,0.3395330150675939,Mann-Whitney U
-"Onset to recanalisation, h",3.6 (3.0 to 4.5),4.2 (3.5 to 5.6),40,26,0.4413134721374445,0.07012803693264462,Mann-Whitney U
+"Onset to recanalisation, min",216 (177.5 to 271.0),251 (210 to 339),40,26,0.44131347213744426,0.07012803693264462,Mann-Whitney U
 90-day mRS,1 (1 to 5),3 (2 to 4),39,26,0.19172239477432382,0.28298697183176547,Mann-Whitney U
 Failure of early neurological improvement,11/40 (28%),9/29 (31%),40,29,,0.7926212958964398,Fisher exact
 Female sex,14/40 (35%),14/29 (48%),40,29,,0.3245558256616191,Fisher exact
